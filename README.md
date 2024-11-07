@@ -1,1 +1,1 @@
-# banking-console-applics
+# banking-console-application
